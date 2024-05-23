@@ -121,8 +121,8 @@
         <ul>
             <li><a href="#home">หน้าแรก</a></li>
             <li><a href="#products">สินค้า</a></li>
-            <li><a href="#about">เกี่ยวกับเรา</a></li>
-            <li><a href="#contact">ติดต่อเรา</a></li>
+            <li><a href="#about">รีวิว</a></li>
+            <li><a href="#contact">ติดต่อ</a></li>
         </ul>
     </nav>
     <div class="container">
@@ -141,7 +141,7 @@
                     <button onclick="showROVPage()">กดเพื่อดูรายระเอียดการบิการ</button>
                 </div>
                 <div class="item">
-                    <img src="https://i.pinimg.com/originals/53/6d/3c/536d3cdef50c45aa70693e02e6c01313.png" alt="ROBLOX">
+                    <img src="https://media.tenor.com/HO1YAH0_iMcAAAAi/roblox-logo.gif" alt="ROBLOX">
                     <h3>ROBLOX</h3>
                     <p>บริการซื้อขาย ID/Item เกม Roblox</p>
                     <p>ราคาเริ่มต้น 50บาท</p>
@@ -179,11 +179,11 @@
             </div>
         </div>
         <div id="about" class="page hidden">
-            <h2>เกี่ยวกับเรา</h2>
+            <h2>รีวิว</h2>
             <p>ข้อมูลเกี่ยวกับธุรกิจของเรา</p>
         </div>
         <div id="contact" class="page hidden">
-            <h2>ติดต่อเรา</h2>
+            <h2>ติดต่อ</h2>
             <p>ข้อมูลการติดต่อ</p>
         </div>
         <div id="rov" class="page hidden">
